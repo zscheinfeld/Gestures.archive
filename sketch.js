@@ -292,7 +292,7 @@ function switchimages (actionid1, actionid2, objectid, objectarray, elementnumbe
         var swap2 = "#mouse"
         var jar = "jar"
         jar1hover[0] = -1
-        switchimages(swap1, swap2, jar, jar1[0], 1, 5000)
+        switchimages(swap1, swap2, jar, jar1[0], 1, 2000)
         });
 
     $( "#pepper1").dblclick(function() {
