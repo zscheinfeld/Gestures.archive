@@ -1,0 +1,209 @@
+body{
+    background-color:black;
+    margin: 20px;
+    cursor: none;
+}
+
+.column{
+    background-color:black;
+    min-height: 100vh;
+    width: 100%;
+    max-width: 1500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: auto;
+    
+}
+
+.container{
+    background-color:black;
+    width: 100%;
+    height: 40vw;
+    max-height: 500px;
+    margin-top: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+
+.innercontainer{
+    background-color:black;
+    width:32%;
+    height: 100%;
+    
+}
+
+/* Image classes */
+
+.imcoaster1{
+    background-image: url(States/coaster.png);
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.imcoaster2{
+    background-image: url(States/Coaster2.png);
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.imegg1{
+    background-image: url(States/Egg.png);
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.imegg2{
+    background-image: url(States/Egg2.png);
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.imticket1{
+    background-image: url(States/Ticket1.png);
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.imticket2{
+    background-image: url(States/Ticket2.png);
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.imcandle1{
+    background-image: url(States/Candle1.png);
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.imcandle2{
+    background-image: url(States/Candle2.png);
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.imjar1{
+    background-image: url(States/Jar1.png);
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.imjar2{
+    background-image: url(States/Jar2.png);
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.impepper1{
+    background-image: url(States/Pepper1.png);
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.impepper2{
+    background-image: url(States/Pepper2.png);
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.impin1{
+    background-image: url(States/Pin1.png);
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.impin2{
+    background-image: url(States/Pin2.png);
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.imstamp1{
+    background-image: url(States/Stamp1.png);
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.imstamp2{
+    background-image: url(States/Stamp2.png);
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.imbutton1{
+    background-image: url(States/Button1.png);
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.imbutton2{
+    background-image: url(States/Button2.png);
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+#mouse{
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 1920px;
+    width: 1080px;
+    pointer-events: none;
+    z-index: 10;
+}
+
+#lighter{
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 1920px;
+    width: 1080px;
+    pointer-events: none;
+    display: none;
+    z-index: 10;
+}
+
+#knock{
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 1920px;
+    width: 1080px;
+    pointer-events: none;
+    display: none;
+    z-index: 10;
+}
+
+#clicker{
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 1920px;
+    width: 1080px;
+    pointer-events: none;
+    display: none;
+    z-index: 10;
+}
+
+
