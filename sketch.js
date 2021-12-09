@@ -1,4 +1,4 @@
-var urlpointer = "Images/browse/_1.png"
+var urlpointer = "Images/_1.png"
 var urllighter = "Images/01.gif"
 var urlknock = "Gifs/knock.gif"
 var urlclicker = "Gifs/click.gif"
