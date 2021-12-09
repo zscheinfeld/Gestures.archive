@@ -11,6 +11,8 @@ function setup(){
 
 $( document ).ready(function() {
 
+const audiolighter = new Audio("Audio/Lighter.m4a" );  
+
 
 var urllighter = "Images/01.gif"
 var urlknock = "Gifs/knock.gif"
@@ -76,9 +78,6 @@ function switchimages (actionid1, actionid2, objectid, objectarray, elementnumbe
 // function to load image into an array (foldername, folderlength)
 
     //images
-    var pointer = new Image();
-    pointer.src = urlpointer;
-    $('#mouse').append(pointer);
 
     var lighter = new Image();
     lighter.src = urllighter
@@ -91,6 +90,10 @@ function switchimages (actionid1, actionid2, objectid, objectarray, elementnumbe
     var clicker = new Image();
     clicker.src = urlclicker
     $('#clicker').append(clicker);
+
+    var pointer = new Image();
+    pointer.src = urlpointer;
+    $('#mouse').append(pointer);
 
 
     // get mouse position   where scrolloffset is position   
@@ -159,6 +162,7 @@ function switchimages (actionid1, actionid2, objectid, objectarray, elementnumbe
         });
 
     $( "#candle1").dblclick(function() {
+        audiolighter.play();
         var swap1 = "#lighter"
         var swap2 = "#mouse"
         var candle = "candle"
