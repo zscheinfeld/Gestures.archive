@@ -11,10 +11,11 @@ function setup(){
 
 $( document ).ready(function() {
 
-var urlpointer = "Images/_pointer.png"
+
 var urllighter = "Images/01.gif"
 var urlknock = "Gifs/knock.gif"
 var urlclicker = "Gifs/click.gif"
+var urlpointer = "Images/_pointer.png"
 
 
 // click state arrays
