@@ -163,6 +163,135 @@ body{
     object-fit: cover;
 }
 
+.imballoon1{
+    background-image: url(States/Balloon1.png);
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.imballoon2{
+    background-image: url(States/Balloon2.png);
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.imdollar1{
+    background-image: url(States/Money1.png);
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.imdollar2{
+    background-image: url(States/Money2.png);
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.immarshmellow1{
+    background-image: url(States/Marshmellow1.png);
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.immarshmellow2{
+    background-image: url(States/Marshmellow2.png);
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.imname1{
+    background-image: url(States/Nametag.png);
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.imname2{
+    background-image: url(States/Nametag.png);
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.imbeans1{
+    background-image: url(States/beans1.png);
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.imbeans2{
+    background-image: url(States/beans2.png);
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.imbulb1{
+    background-image: url(States/bulb1.png);
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.imbulb2{
+    background-image: url(States/bulb2.png);
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.imcupcake1{
+    background-image: url(States/Cupcake1.png);
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.imcupcake2{
+    background-image: url(States/Cupcake2.png);
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.imonion1{
+    background-image: url(States/Onion1.png);
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.imonion2{
+    background-image: url(States/Onion2.png);
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.imshave1{
+    background-image: url(States/Shave1.png);
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.imshave2{
+    background-image: url(States/shave2.png);
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+
+
+
 #mouse{
     position: fixed;
     top: 0;
@@ -206,4 +335,125 @@ body{
     z-index: 10;
 }
 
+#hammer{
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 1920px;
+    width: 1080px;
+    pointer-events: none;
+    display: none;
+    z-index: 10;
+}
+
+#opener{
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 1920px;
+    width: 1080px;
+    pointer-events: none;
+    display: none;
+    z-index: 10;
+}
+
+#paint{
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 1920px;
+    width: 1080px;
+    pointer-events: none;
+    display: none;
+    z-index: 10;
+}
+
+
+#scratch{
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 1920px;
+    width: 1080px;
+    pointer-events: none;
+    display: none;
+    z-index: 10;
+}
+
+#sharpie{
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 1920px;
+    width: 1080px;
+    pointer-events: none;
+    display: none;
+    z-index: 10;
+}
+
+#shave{
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 1920px;
+    width: 1080px;
+    pointer-events: none;
+    display: none;
+    z-index: 10;
+}
+
+#siccors{
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 1920px;
+    width: 1080px;
+    pointer-events: none;
+    display: none;
+    z-index: 10;
+}
+
+#sprinkle{
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 1920px;
+    width: 1080px;
+    pointer-events: none;
+    display: none;
+    z-index: 10;
+}
+
+#stamp{
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 1920px;
+    width: 1080px;
+    pointer-events: none;
+    display: none;
+    z-index: 10;
+}
+
+#tongs{
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 1920px;
+    width: 1080px;
+    pointer-events: none;
+    display: none;
+    z-index: 10;
+}
+
+#type{
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 1920px;
+    width: 1080px;
+    pointer-events: none;
+    display: none;
+    z-index: 10;
+}
 
