@@ -1,4 +1,17 @@
-var urlpointer = "Gestures.archive/Images/_1.png"
+function setup(){ 
+    
+  
+}
+
+
+
+
+
+
+
+$( document ).ready(function() {
+
+    var urlpointer = "Images/_1.png"
 var urllighter = "Images/01.gif"
 var urlknock = "Gifs/knock.gif"
 var urlclicker = "Gifs/click.gif"
@@ -60,15 +73,6 @@ function switchimages (actionid1, actionid2, objectid, objectarray, elementnumbe
 
 
 // function to load image into an array (foldername, folderlength)
-
-
-function setup(){ 
-    
-  
-}
-
-
-$( document ).ready(function() {
 
     //images
     var pointer = new Image();
