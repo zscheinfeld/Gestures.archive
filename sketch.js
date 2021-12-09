@@ -17,7 +17,7 @@ const audiolighter = new Audio("Audio/Lighter.m4a" );
 var urllighter = "Images/01.gif"
 var urlknock = "Gifs/knock.gif"
 var urlclicker = "Gifs/click.gif"
-var urlpointer = "Gifs/_pointer.png"
+var urlpointer = "Gifs/pointer.png"
 
 
 // click state arrays
